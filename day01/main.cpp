@@ -6,7 +6,7 @@ int main()
     std::ifstream fin("input.txt");
     int aNumber;
     int sum = 0;
-    /* PART A
+    /* PART 1
     while(fin >> aNumber)
     {
        sum += (aNumber / 3) - 2; 
